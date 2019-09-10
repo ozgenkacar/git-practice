@@ -2,3 +2,4 @@ name:Ozgen
 occupation:
 objective:
 backround:
+preferred rate:
